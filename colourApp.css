@@ -1,0 +1,22 @@
+ #colors{
+    margin: 0px 10px;
+}
+.remove{
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.color{
+    height: 50px;
+}
+.checked {
+    color: orange;
+  }
+
+.rating {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  } 
+ .DIV
+{
+    padding: 20px;
+}
